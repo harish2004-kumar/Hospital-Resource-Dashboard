@@ -1,5 +1,5 @@
 # 🏥 Hospital Resource Utilization & Patient Outcomes Dashboard
-
+![image alt](https://github.com/harish2004-kumar/Hospital-Resource-Dashboard/blob/022a57de20ee9f58c2f3bd7a1b262a9b0cf6c741/dashboard.png)
 ## 📌 Project Overview
 This project presents an interactive **Power BI dashboard** built to analyze and optimize hospital resource utilization and patient outcomes across a multi-specialty hospital network.  
 It helps hospital administrators and operations teams make **data-driven decisions** related to staffing, bed management, cost control, and patient care quality.
